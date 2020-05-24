@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/cmontebon/project-covued-22-api
+[submodule "client"]
+	path = client
+	url = https://github.com/cmontebon/project-covued-22-client
